@@ -8,7 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=10000&pause=1000&color=25F702&background=03030300&repeat=false&width=1500&height=80&lines=Support+me+with+a+cup+of+coffee+or+tea+if+you+like+my+creations!+%E2%98%95%EF%B8%8F%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 <a href="https://www.buymeacoffee.com/Ciell25" target="_blank">
   <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Ciell25&button_colour=40DCA5&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me a Coffee" />
-<h1>
 
 
 ## 📊 GitHub Contributions
