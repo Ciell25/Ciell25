@@ -1,7 +1,7 @@
 # Welcome to My Profile!
 
 Visit my website: [Ciell25's Portfolio](https://Ciell25.github.io)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ciell25/Ciell25" alt="Ciell25">  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ciell25/Ciell25.github.io)" alt="Ciell25.github.io">  
 <h1>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&background=03030300&multiline=true&width=435&lines=Welcome+My+Github;Hi+Im+VanQish;Nice+to+meet+you+!)](https://git.io/typing-svg)
