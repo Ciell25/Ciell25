@@ -8,7 +8,7 @@ Visit my website: [Ciell25's Portfolio](https://Ciell25.github.io)
 
 <h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Belanosima'%2C+sans-serif&weight=900&size=25&duration=3000&pause=2000&color=blue&width=435&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Alfred;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&width=435&lines=Welcome+My+Github;Hi+Im+VanQish;Nice+to+meet+you+!)](https://git.io/typing-svg)
 
 </h1>
 
