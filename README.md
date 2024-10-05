@@ -10,13 +10,14 @@ Visit my website: [Ciell25's Portfolio](https://Ciell25.github.io)
 
 <h1>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&background=03030300&width=435&lines=Support+me+with+a+cup+of+coffee+or+tea+if+you+like+my+creations!+%E2%98%95%EF%B8%8F%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
-<h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=10000&pause=1000&color=25F702&background=03030300&repeat=false&width=1500&height=80&lines=Support+me+with+a+cup+of+coffee+or+tea+if+you+like+my+creations!+%E2%98%95%EF%B8%8F%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 <h1>
   <a href="https://www.buymeacoffee.com/Ciell25" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 </h1>
+
+<h1>
+
+
 
 
 
