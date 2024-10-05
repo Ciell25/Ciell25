@@ -2,16 +2,17 @@
 
 Visit my website: [Ciell25's Portfolio](https://Ciell25.github.io)
 
-## 📊 GitHub Contributions
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
 <h1>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&width=435&lines=Welcome+My+Github;Hi+Im+VanQish;Nice+to+meet+you+!)](https://git.io/typing-svg)
 
 </h1>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Freddywhest/Freddywhest" alt="Freddywhest">  
+
+## 📊 GitHub Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ---
 
