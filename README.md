@@ -9,6 +9,7 @@
 <a href="https://www.buymeacoffee.com/Ciell25" target="_blank">
   <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Ciell25&button_colour=40DCA5&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me a Coffee" />
 
+---
 
 ## 📊 GitHub Contributions
 
