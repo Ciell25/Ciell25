@@ -1,11 +1,9 @@
 # Welcome to My Profile!
  Visit my website: [Ciell25's Portfolio](https://ciell25.github.io/)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=VanQish%20&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ciell25/Ciell25.github.io" alt="Visitor Badge">  
 <h1>
-  
+ 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=VanQish%20&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ciell25/Ciell25.github.io" alt="Visitor Badge">    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&background=03030300&width=435&lines=Welcome+My+Github;Hi+Im+VanQish;Nice+to+meet+you+!)](https://git.io/typing-svg)
 
 </h1>
