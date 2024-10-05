@@ -1,5 +1,4 @@
 # Welcome to My Profile!
- Visit my website: [Ciell25's Portfolio](https://ciell25.github.io/)
 <h1>
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=VanQish%20&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
