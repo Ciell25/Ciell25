@@ -11,7 +11,7 @@ Visit my website: [Ciell25's Portfolio](https://Ciell25.github.io)
 ## 🌟 About Me
 
 - 💻 **Full Stack Developer** with expertise in modern web and mobile app development.
-- 🌱 Learning more about **Cloud Computing**, **DevOps**, and **AI**.
+- 🌱 Currently learning more about **Cloud Computing**, **DevOps**, and **AI**.
 - 🎯 Open to collaborating on **open-source projects** and solving complex problems.
 - 🔗 Always excited about new technologies and keeping my skills updated.
 
@@ -50,8 +50,10 @@ Visit my website: [Ciell25's Portfolio](https://Ciell25.github.io)
 ---
 
 ### ✨ Fun Facts
-- 🎮 Enjoys playing video games and exploring new tech.
+
+- 🎮 Enjoy playing video games and exploring new tech.
 - 📚 Always learning new things in tech, especially around **AI** and **Blockchain**.
 - 🌍 Excited to collaborate with global developers and contribute to innovative projects.
 
 ---
+
