@@ -1,6 +1,5 @@
 # Welcome to My Profile!
-
-Visit my website: [Ciell25's Portfolio](https://Ciell25.github.io)
+ (https://Ciell25.github.io)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ciell25/Ciell25.github.io" alt="Visitor Badge">  
 <h1>
   
