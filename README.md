@@ -33,7 +33,7 @@ Visit my website: [Ciell25's Portfolio](https://Ciell25.github.io)
 
 ## 🛠 Skills & Tools
 
-![Skills Icons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,docker,git,linux&theme=light)
+![Skills Icons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,docker,linux&theme=light)
 
 ---
 
