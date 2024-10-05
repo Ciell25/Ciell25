@@ -4,10 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=VanQish%20&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ciell25/Ciell25.github.io" alt="Visitor Badge">    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&background=03030300&width=435&lines=Welcome+My+Github;Hi+Im+VanQish;Nice+to+meet+you+!)](https://git.io/typing-svg)
-
-</h1>
-
-<h1>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=10000&pause=1000&color=25F702&background=03030300&repeat=false&width=1500&height=80&lines=Support+me+with+a+cup+of+coffee+or+tea+if+you+like+my+creations!+%E2%98%95%EF%B8%8F%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 <a href="https://www.buymeacoffee.com/Ciell25" target="_blank" class="btn-coffee">☕ Buy Me a Coffee</a>
