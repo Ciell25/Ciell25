@@ -1,65 +1,86 @@
+# 
 
-<h1>
- 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=VanQish%20&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ciell25/Ciell25.github.io" alt="Visitor Badge">    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&background=03030300&width=435&lines=Welcome+My+Github;Hi+Im+VanQish;Nice+to+meet+you+!)](https://git.io/typing-svg)
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=10000&pause=1000&color=25F702&background=03030300&repeat=false&width=1500&height=80&lines=Support+me+with+a+cup+of+coffee+or+tea+if+you+like+my+creations!+%E2%98%95%EF%B8%8F%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-<a href="https://www.buymeacoffee.com/Ciell25" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Ciell25&button_colour=40DCA5&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me a Coffee" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=VanQish&fontSize=80&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
 
----
-![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+VanQish;Full+Stack+Developer+;Building+modern+web+%26+mobile+apps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ciell25/Ciell25.github.io&left_color=1a1b26&right_color=7aa2f7" alt="Visitor Badge">
+</p>
 
 ---
 
-## 🌟 About Me
+## 🌌 About Me
 
-- 💻 **Full Stack Developer** with expertise in modern web and mobile app development.
-- 🌱 Currently learning more about **Cloud Computing**, **DevOps**, and **AI**.
-- 🎯 Open to collaborating on **open-source projects** and solving complex problems.
-- 🔗 Always excited about new technologies and keeping my skills updated.
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="320">
+    </td>
+  </tr>
+</table>
 
----
+- 💻 **Full Stack Developer** dengan keahlian dalam pengembangan aplikasi web dan mobile modern.
+- 🌱 Saat ini sedang mendalami **Cloud Computing**, **DevOps**, dan **AI Integration**.
+- 🎯 Terbuka untuk kolaborasi pada **proyek open-source** dan penyelesaian masalah yang kompleks.
+- 🔗 Selalu antusias mempelajari teknologi baru untuk menjaga relevansi skill di industri.
+
+<br/>
 
 ## 🛠 Skills & Tools
 
-![Skills Icons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,docker,linux&theme=light)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,mysql,docker,linux&theme=dark" alt="Skills Icons" />
+</p>
 
 ---
 
-## 🎯 Stats & Achievements
+## 📊 Stats & Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ciell25&show_icons=true&theme=cobalt2&hide_border=true&hide_title=true&include_all_commits=true&count_private=true) 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ciell25&theme=cobalt2&hide_border=true) 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciell25&layout=compact&theme=cobalt2&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ciell25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Ciell25&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciell25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ciell25&theme=onedark&no-frame=true&margin-w=15&row=1&column=5)
-
----
-
-## 💼 Projects
-
-- 🌐 **Portfolio Website**: Built using **Next.js** and **TailwindCSS**.
-- 🔧 **DevOps Pipelines**: Automating deployments with **Docker**, **GitHub Actions**, and **AWS**.
-- 📱 **React Native App**: Developing mobile applications for productivity management.
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ciell25&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=5" alt="GitHub Trophies" />
+</p>
 
 ---
 
-![Anime Banner](https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS)
+## 💼 Featured Projects
+
+* 🌐 **Portfolio Website**: Dibangun menggunakan **Next.js**, **TailwindCSS**, dan dioptimalkan untuk SEO.
+* 🔧 **DevOps Pipelines**: Otomatisasi deployment menggunakan **Docker**, **GitHub Actions**, dan layanan **AWS**.
+* 📱 **React Native App**: Pengembangan aplikasi mobile lintas platform untuk manajemen produktivitas.
 
 ---
 
-### ✨ Fun Facts
+### ✨ Fun Facts & Interests
 
-- 🎮 Enjoy playing video games and exploring new tech.
-- 📚 Always learning new things in tech, especially around **AI** and **Blockchain**.
-- 🌍 Excited to collaborate with global developers and contribute to innovative projects.
+- 🎮 Gemar bermain video games dan mengeksplorasi ekosistem teknologi baru.
+- 📚 Senang membaca perkembangan terbaru seputar **AI** dan **Web3/Blockchain**.
+- 🌍 Sangat bersemangat untuk terhubung dengan developer global dan berkontribusi pada proyek inovatif.
 
 ---
 
+## ☕ Support My Journey
+
+Jika Anda menyukai karya atau proyek yang saya buat, Anda bisa mendukung saya melalui tautan di bawah ini:
+
+<a href="https://www.buymeacoffee.com/Ciell25" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Ciell25&button_colour=7aa2f7&font_colour=ffffff&font_family=Inter&outline_colour=1a1b26&coffee_colour=ff9e64" alt="Buy Me a Coffee" />
+</a>
+
+<br />
+
+<p align="center">
+  <img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS" alt="Banner" width="100%">
+</p>
